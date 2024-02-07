@@ -11424,4 +11424,20 @@ img .img-box-2{
 	padding: 36px 152px 0px;
  }
  
+ .storage-class {
+	margin: -1px; */
+    background-color: #f8f8f8;
+    border-radius: 8px;
+    padding: 20px;
+ }
+ .storage-class-2 {
+	
+    background-color: #f8f8f8;
+    border-radius: 8px;
+    
+ }
+ .storage-solution {
+	margin: 50px;
+    padding: 25px;
+}
  
