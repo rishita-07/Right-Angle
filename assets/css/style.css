@@ -3994,6 +3994,7 @@ ul.list-products {
 	position: relative;
 	padding-bottom: 30px;
 	background-color: #f8f8f8;
+	margin-top: 32px;
 	
 	
 }
@@ -11129,9 +11130,9 @@ a:hover, a:focus, a:active,
       
       flex-direction:column;
       */display: flex;
-    width: 74%;
+    width: 75%;
     background-color: #f8f8f8;
-    margin-left: 187px;
+    margin-left: 188px;
 	border-radius: 20px;
 	margin-top: 33px;
 	margin-bottom: 36px;
@@ -11408,10 +11409,22 @@ img .img-box-2{
     margin-right: 86px;
  }
  .tittle-inner {
-	margin-left: 53px;
+	margin-left: 68px;
  }
  .tittle-big {
 	font-size: 49px !important;
+	color: #222222;
+	text-align: center;
+	font-style: normal;
+	margin-bottom: 39px;
+	position: relative;
+	font-family: inherit;
+	font-weight: 700;
+	letter-spacing: 0;
+	display: table;
+	margin-left: auto;
+	margin-top: 26px;
+	
  }
  .tittle-inner-home-page {
 	background-color: black;
@@ -11440,4 +11453,26 @@ img .img-box-2{
 	margin: 50px;
     padding: 25px;
 }
- 
+ .breadcrumb-style {
+	position: relative;
+    left: 25px;
+ }
+ .breadcrumb-index {
+	font-size: 30px;
+ }
+ .breadcrumb-tittle {
+	position: relative;    
+	left: 25px;
+ }
+ .image-wrap wrap-content {
+	margin-top: -25px;
+
+ }
+ .locks-arch-form {
+	padding-left: 32px;
+    padding-top: 10px;
+    padding-right: 32px;
+ }
+ .storage-second {
+	margin-top: -33px;
+ }
